@@ -96,3 +96,83 @@
   font-size: 14px;
   color: #cf6f49;
 }
+.fluit {
+  margin-top: 77px;
+
+  display: flex;
+}
+.role--img {
+  display: flex;
+  width: 728px;
+  padding: 13px 0px;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 32px;
+  margin-left: 400px;
+}
+.icon--svg1 {
+  padding-left: 40px;
+  gap: 10px;
+}
+.icon--svg2 {
+  gap: 10px;
+}
+.icon--svg3 {
+  gap: 10px;
+}
+.icon--svg4 {
+  gap: 10px;
+}
+.col-text {
+  color: #2a2c1f;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 48px;
+  margin-top: 138px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.6px; /* 120% */
+}
+.col--text-2 {
+  width: 754px;
+  color: #65665c;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  margin-left: 300px;
+  font-weight: 400;
+  line-height: 27px; /* 150% */
+}
+.card--3 {
+  display: flex;
+}
+.card-img-top {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  color: #cf6f49;
+  text-align: center;
+  font-family: Material Icons;
+  margin-top: 50px;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 48px; /* 150% */
+}
+.card-body {
+  text-align: center;
+  font-family: Material Icons;
+  margin-top: 50px;
+  font-size: 16px;
+  font-style: normal;
+  border-radius: 8px;
+  font-weight: 400;
+  gap: 10px;
+  margin-bottom: 47px;
+}
+.card {
+  width: 405px;
+  height: 291px;
+  flex-shrink: 0;
+}
